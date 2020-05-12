@@ -438,7 +438,7 @@ const languageString = {
       CORRECT_ANSWER_MESSAGE: ' सही जवाब है %s: %s. ',
       ANSWER_IS_MESSAGE: '',
       TELL_QUESTION_MESSAGE: 'सवाल %s. %s ',
-      GAME_OVER_MESSAGE: 'आपके %s में से 5 जवाब सही मिले। खेलने के लिए धन्यवाद!',
+      GAME_OVER_MESSAGE: 'आपके 5 में से %s जवाब सही मिले। खेलने के लिए धन्यवाद!',
       SCORE_IS_MESSAGE: 'आपका स्कोर है %s '
     },
   },
